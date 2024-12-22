@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm rishabh pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **projects are underconstruction**
+- **projects are underconstruction**
 
 - 🌱 I’m currently learning **web3,blockchain and developing my problem solving skills**
 
